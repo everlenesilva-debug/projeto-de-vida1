@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Manufacturing+Consent&display=swap');
+
+:root{
+
+    background-color: rgb(105, 89, 117);
+    color: blueviolet;
+}
+.conteudo-principal{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px ;
+    max-height: 100% ;
+    margin: auto;
+}
+titulo-principal{
+    text-align: left;
+    width: 100%;
+    font-size: 30px;
+}
+
+
+
+
+
+
